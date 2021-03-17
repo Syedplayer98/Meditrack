@@ -1,0 +1,8 @@
+
+
+default.name=Munsif
+default.rpchost=192.168.56.1
+default.rpcport=4374
+default.rpcuser=multichainrpc
+
+default.rpcpassword=HbCLm1Jb6a6iDSVpMrvy8bCjnn3xBXyY5urPh4CaFe9L
